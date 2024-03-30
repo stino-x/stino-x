@@ -1,4 +1,5 @@
-[](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![Minimal Modern You Are Enough Quote Desktop Wallpaper](https://github.com/stino-x/stino-x/assets/107426247/5d84c8a1-a451-4ce1-9c46-f81fa7815771)
+
 <h1 align="center">Hi 👋, I'm Augustine</h1>
 
 <h3 align="center">A passionate From Nigeria (currently based in Budapest, Hungary)</h3>

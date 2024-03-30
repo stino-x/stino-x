@@ -1,6 +1,6 @@
 ![Minimal Modern You Are Enough Quote Desktop Wallpaper](https://github.com/stino-x/stino-x/assets/107426247/5d84c8a1-a451-4ce1-9c46-f81fa7815771)
 
-<h3 align="center">A passionate From Nigeria (currently based in Budapest, Hungary)</h3>
+<h3 align="center">A passionate Software Developer From Nigeria (currently based in Budapest, Hungary)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stino-x&label=Profile%20views&color=0e75b6&style=flat" alt="stino-x" /> </p>
 

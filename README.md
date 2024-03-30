@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augustine</h1>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <h3 align="center">A passionate From Nigeria (currently based in Budapest, Hungary)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stino-x&label=Profile%20views&color=0e75b6&style=flat" alt="stino-x" /> </p>

@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [A shoe store](https://github.com/stino-x/hyperlace)
 
-- 🌱 I’m currently learning **three.js, Mongo DB**
+- 🌱 I’m currently learning **three.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stino-x/Template-5-portfolio](https://github.com/stino-x/Template-5-portfolio)
 

@@ -6,11 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stino-x" alt="stino-x" /></a> </p>
 
-- 🔭 I’m currently working on [A shoe store](https://github.com/stino-x/hyperlace)
 
 - 🌱 I’m currently learning **three.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stino-x/Template-5-portfolio](https://github.com/stino-x/Template-5-portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/stino-x/Template-5-portfolio](https://portfolio-austin.vercel.app/)
 
 - 📫 How to reach me **iheagwarqaustin214@gmail.com**
 

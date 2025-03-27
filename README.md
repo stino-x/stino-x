@@ -7,13 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stino-x" alt="stino-x" /></a> </p>
 
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **three.js**, **sopftware architecture**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stino-x/Template-5-portfolio](https://portfolio-austin.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://portfolio-austin.vercel.app/)
 
 - 📫 How to reach me **iheagwarqaustin214@gmail.com**
-
-- 📄 Know about my experiences [resume link](resume link)
 
 - ⚡ Fun fact **I make music as a hobby**
 
